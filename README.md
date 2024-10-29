@@ -8,7 +8,7 @@ Start by forking [this shadertoy](https://www.shadertoy.com/view/XftyR8)
 
 ## Task 1
 In the faceSDF function, add a new float parameter called SUPRISE a value between 0 and 1. Copying the way EYE_SEPARATION is used, modify the face such that the gingerbread face looks more or less surprised based on the value of SURPRISE. SURPRISE = 0 should be not very surprised, and SUPRISE = 1.0 should look very surprised. Note that the face shouldn't look broken for any value in that range!
-SURPRISE much change more than one facial feature (just eyebrows are NOT SUFFICIENT).
+Changing this parameter should change at least 3 geometic attributes of the face and more than one facial feature (just eyebrows are NOT SUFFICIENT).
 
 ![image](https://github.com/user-attachments/assets/76d63b1b-f3af-456a-8031-8b8da0abe125)
 
