@@ -13,10 +13,10 @@ Changing this parameter should change at least 3 geometic attributes of the face
 ![image](https://github.com/user-attachments/assets/76d63b1b-f3af-456a-8031-8b8da0abe125)
 
 ## Task 2
-In the faceSDF function, create a new float parameter called SADNESS. Follow the same guidelines as outlined in Task 1.
-
-## Task 3
 Your own parameter! Create a new attribute of your choice that maps to a procedural face characteristic in the domain of [0,1]. It SHOULD NOT be a literal attribute, eg. eye-separation or mouth size, but instead a more qualitative, subjective quality that you tie to specific geometic parameters using your design sense. Have fun!
+
+## Extra Credit
+In the faceSDF function, create a new float parameter called SADNESS. Follow the same guidelines as outlined in Task 1.
  
 ## Submission
 - Create a pull request to this repository
