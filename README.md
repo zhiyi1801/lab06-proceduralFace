@@ -6,6 +6,10 @@ Let's practice parameterization! We'll be starting with an oh-so-beautiful ginge
 ## Setup
 Start by forking [this shadertoy](https://www.shadertoy.com/view/XftyR8)
 
+## Submit
+[Link Task1](https://www.shadertoy.com/view/McKczy)
+[Link Task2](https://www.shadertoy.com/view/McKczy)
+
 ## Task 1
 In the faceSDF function, add a new float parameter called SUPRISE a value between 0 and 1. Copying the way EYE_SEPARATION is used, modify the face such that the gingerbread face looks more or less surprised based on the value of SURPRISE. SURPRISE = 0 should be not very surprised, and SUPRISE = 1.0 should look very surprised. Note that the face shouldn't look broken for any value in that range!
 Changing this parameter should change at least 3 geometic attributes of the face and more than one facial feature (just eyebrows are NOT SUFFICIENT).
